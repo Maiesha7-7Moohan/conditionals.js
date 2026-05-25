@@ -6,7 +6,7 @@ if (score === 100) {
   console.log("Passed - Perfect Score!");
   // Prints the text "Passed - Perfect Score!".
 } else if (score >= PassingGrade) {
-  console.log("Passed - Great Job!");
+  console.log("Passed - Great Work!.");
 } else {
-  console.log("Failed - Better luck next time!");
+  console.log("Failed - Better Luck Next Time.");
 }
